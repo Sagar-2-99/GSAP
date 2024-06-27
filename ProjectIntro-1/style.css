@@ -1,0 +1,45 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: gilroy;
+    color: #fff;
+}
+
+html,
+body{
+    height:100%;
+    width:100%;
+    background-color: #111;
+}
+
+#box1{
+    height: 300px;
+    width: 300px;
+    background-color: crimson;
+}
+#box2{
+    height: 300px;
+    width: 300px;
+    background-color: blue;
+}
+#boxA{
+    height: 300px;
+    width: 300px;
+    background-color: crimson;
+}
+#boxB{
+    height: 300px;
+    width: 300px;
+    background-color: blue;
+}
+#boxC{
+    height: 300px;
+    width: 300px;
+    background-color: green;
+}
+#boxD{
+    height: 300px;
+    width: 300px;
+    background-color: yellow;
+}
